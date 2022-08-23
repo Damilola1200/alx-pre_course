@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ALX
 git pull
 echo "git pull" > up_to_date_
@@ -5,3 +6,7 @@ git add .
 git status
 git commit -m "How to be up to date in git"
 git push
+=======
+#!/bin/bash
+ALX, school is so cool
+>>>>>>> update_script
